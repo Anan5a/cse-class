@@ -5,7 +5,7 @@ void sort123(float*, int*, char*, int);
 
 int main()
 {
-    int max = 100;
+    int max = 6;
     int roll[max], i;
     char name[max][100];
     float gpa[max];
