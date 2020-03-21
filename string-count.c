@@ -39,6 +39,7 @@ int main()
         }
         found=0;
     }
+
     for(i=0; i<nbnf; i++)
         printf("%c=%d\n",d[i],o[i]);
     return 0;
